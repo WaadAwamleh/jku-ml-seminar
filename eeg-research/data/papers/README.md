@@ -3,6 +3,7 @@
 
 WS24:
 - your name here [your paper link here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Wa'ad Al-Awamleh (Master Thesis Direction) [ViTST: Vision Time Series Transformer](https://openreview.net/forum?id=Nv0tzncECS)
   
 WS23:
 - Markus Gutenberger [CLEEGN: A Convolutional Neural Network for Plug-and-Play Automatic EEG Reconstruction](https://openreview.net/forum?id=O3NQgGoGu6)
